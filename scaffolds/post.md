@@ -12,7 +12,7 @@ categories:
 <script>
   var gitment = new Gitment({
     id: 'location.href', // 可选。默认为 location.href
-    owner: '16983883', // 可以是你的GitHub用户名，也可以是github id
+    owner: 'Hieuzest', // 可以是你的GitHub用户名，也可以是github id
     repo: 'group4blog',
     oauth: {
       client_id: 'b53b0376640bfdfd489f',
