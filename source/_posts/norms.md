@@ -1,8 +1,6 @@
 ---
-title: A little test for image uploading
+title: The Group Norms
 categories: Group
 ---
-
-## The Group Norms
 
 ![Norms](/images/norms_0.jpg)
