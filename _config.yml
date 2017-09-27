@@ -7,7 +7,7 @@ title: Blog for Group 4
 subtitle: Desigin Thinking
 description:
 author: Liu Yuchen; Wu XinLiang; Guo JiaMing; Yu Cheng; Xia Yueran
-language:
+language: en
 timezone: Asia/Shanghai
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

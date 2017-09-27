@@ -1,5 +1,6 @@
 ---
 title: A little test for image uploading
+categories: Group
 ---
 
 
