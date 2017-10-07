@@ -14,11 +14,6 @@ Also recognized as a tutorial for [***Markdown***](https://en.wikipedia.org/wiki
 ##### Title 5
 ###### Title 6
 ```
-## Title 2
-### Title 3
-#### Title 4
-##### Title 5
-###### Title 6
 
 ---
 
@@ -32,9 +27,6 @@ Also recognized as a tutorial for [***Markdown***](https://en.wikipedia.org/wiki
 ~~Strikethrough~~
 //Not needed
 ```
-**Blog**
-*Design Thinking*
-~~GPA~~
 
 ---
 
@@ -51,13 +43,6 @@ Also recognized as a tutorial for [***Markdown***](https://en.wikipedia.org/wiki
 2. Define
 ```
 
-* Animals
-* Fruits
-	* Apple
-	* Banana
-1. Sensing
-2. Define
-
 ---
 
 ### Link
@@ -65,7 +50,6 @@ Also recognized as a tutorial for [***Markdown***](https://en.wikipedia.org/wiki
 ```
 [Markdown](https://en.wikipedia.org/wiki/Markdown)
 ```
-[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ---
 
@@ -77,6 +61,18 @@ Also recognized as a tutorial for [***Markdown***](https://en.wikipedia.org/wiki
 Code
 ```
 `````
+
+---
+
+### Reference
+
+```
+[Ref][1]
+
+...
+
+[1]: https://en.wikipedia.org/wiki/Markdown
+```
 
 ---
 
