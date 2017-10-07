@@ -1,6 +1,7 @@
 ---
 title: First Group Discussion - Topics
 categories: Discussion
+date: 2017-10-06
 ---
 
 ### 乌鑫亮

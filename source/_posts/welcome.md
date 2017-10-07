@@ -1,5 +1,6 @@
 ---
 title: Welcome
+date: 2017-09-26
 ---
 This is the first page of our blog.
 Also recognized as a tutorial for [***Markdown***](https://en.wikipedia.org/wiki/Markdown) beginners.

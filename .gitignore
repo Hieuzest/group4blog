@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+refresh.js
+re.sh
+start.js
