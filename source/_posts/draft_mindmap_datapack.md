@@ -7,4 +7,4 @@ date: 2017-10-15
 
 ![Mindmap](/images/draft_mindmap.jpg)
 
-[**Datapack**](/files/draft_datapack.pdf)
+[**>>>>>>>>>>>> Click here to get the Datapack <<<<<<<<<<<<**](/files/draft_datapack.pdf)
