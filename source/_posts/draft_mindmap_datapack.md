@@ -1,7 +1,7 @@
 ---
 title: Draft of Mindmap and Datapack
 categories: Progress
-tags: Mindmap Datapack 
+tags: [Mindmap, Datapack]
 date: 2017-10-15
 ---
 
