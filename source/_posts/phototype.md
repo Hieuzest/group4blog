@@ -5,13 +5,13 @@ tags: Feedback
 date: 2017-11-27
 ---
 
-## Analysis
+### Analysis
 
 ![sheet](/images/phototype_sheet.jpg)
 
 ![radar](/images/phototype_radar.jpg)
 
-## Phototypes
+### Phototypes
 
 ![phototype](/images/phototype0.jpg)
 ![phototype](/images/phototype1.jpg)
