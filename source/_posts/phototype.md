@@ -1,17 +1,9 @@
 ---
 title: Phototype
 categories: Progress
-tags: Feedback
+tags: 
 date: 2017-11-27
 ---
-
-### Analysis
-
-![sheet](/images/phototype_sheet.jpg)
-
-![radar](/images/phototype_radar.jpg)
-
-### Phototypes
 
 ![phototype](/images/phototype0.jpg)
 ![phototype](/images/phototype1.jpg)
